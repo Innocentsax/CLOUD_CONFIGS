@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to InnocentUdo's Card related productions APIs"
+  message: "Welcome to InnocentUdo's Card related prod APIs"
   contactDetails:
     name: "Innocent Charles Udo - Product Owner"
     email: "innocentcharlesudo@gmail.com"
