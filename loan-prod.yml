@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to InnocentUdo's Loans related prod APIs"
+  message: "Welcome to InnocentUdo's Loans related productions APIs"
   contactDetails:
     name: "Innocent Charles Udo - Product Owner"
     email: "innocentcharlesudo@gmail.com"
