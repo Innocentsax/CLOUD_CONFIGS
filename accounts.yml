@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to InnocentUdo's accounts related dockers APIs"
+  message: "Welcome to InnocentUdo's accounts related dockers/defaults APIs"
   contactDetails:
     name: "Innocent Udo -Developer"
     email: "innocentcharlesudo@gmail.com"
